@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-212-algebraic-combinatorics-spring-2019/09643ced10ca77da14c1bb2212e0bbc0_MIT18_212S19_pset1_solnI.pdf
+file: /media/courses/18-212-algebraic-combinatorics-spring-2019/09643ced10ca77da14c1bb2212e0bbc0_MIT18_212S19_pset1_solnI.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 18.212 S19 Algebraic Combinatorics, Problem Set 1 Solutions I
 uid: 09643ced-10ca-77da-14c1-bb2212e0bbc0

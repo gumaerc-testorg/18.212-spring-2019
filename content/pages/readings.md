@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 7537b076-8d37-4b50-368d-a70f3625b030
 ---
@@ -41,7 +44,7 @@ READINGS
 {{< tdopen >}}
 
 
-Catalan numbers (cont.): formula for _Cn_, reflection principle, necklaces, triangulations of polygons, plane binary trees, parenthesizations.
+Catalan numbers (cont.): formula for _C{{< sub "n" >}}_, reflection principle, necklaces, triangulations of polygons, plane binary trees, parenthesizations.
 
 
 {{< tdclose >}}

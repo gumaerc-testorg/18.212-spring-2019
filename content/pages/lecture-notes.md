@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: a95f0836-9570-d53e-1bbd-4d62a43f57ae
 ---
@@ -33,7 +36,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Catalan numbers (cont.): formula for _Cn_, reflection principle, necklaces, triangulations of polygons, plane binary trees, parenthesizations (PDF)]({{< baseurl >}}/resources/mit18_212s19_lec2)
+[Catalan numbers (cont.): formula for _C{{< sub "n" >}}_, reflection principle, necklaces, triangulations of polygons, plane binary trees, parenthesizations (PDF)]({{< baseurl >}}/resources/mit18_212s19_lec2)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +126,7 @@ TOPICS
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[Eulerian numbers. Increasing binary trees. 3 Pascal-like triangles: Eulerian triangles, Stirling triangles of 1st and 2nd kind (PDF)]({{< baseurl >}}/resources/mit18_212s19_lec12)
+[Eulerian numbers. Increasing binary trees. 3 Pascal-like triangles: Eulerian triangles, Stirling triangles of 1{{< sup "st" >}} and 2{{< sup "nd" >}} kind (PDF)]({{< baseurl >}}/resources/mit18_212s19_lec12)
 {{< tdclose >}}
 
 {{< trclose >}}
