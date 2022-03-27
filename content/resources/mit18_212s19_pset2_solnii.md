@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d385350c-649e-1593-6914-33357a9ebb79
 resourcetype: Document
 title: 18.212 S19 Algebraic Combinatorics, Problem Set 2 Solutions II
 uid: 5f3e83d1-86d3-e2f4-841e-751be1c84454
