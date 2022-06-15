@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This readings section provides information on reading assignments.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -51,9 +52,9 @@ Catalan numbers (cont.): formula for _C{{< sub "n" >}}_, reflection principle, n
 {{< tdopen >}}
 
 
-Stanley, Richard P. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Exercises on Catalan and Related Numbers" (PDF)](http://www-math.mit.edu/~rstan/ec/catalan.pdf). (excerpted from \[EC2\])
+Stanley, Richard P. ["Exercises on Catalan and Related Numbers" (PDF)](http://www-math.mit.edu/~rstan/ec/catalan.pdf). (excerpted from \[EC2\])
 
-Stanley, Richard P. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Catalan Addendum" (PDF)](http://www-math.mit.edu/~rstan/ec/catadd.pdf).
+Stanley, Richard P. ["Catalan Addendum" (PDF)](http://www-math.mit.edu/~rstan/ec/catadd.pdf).
 
 
 {{< tdclose >}}
@@ -77,7 +78,7 @@ Pattern avoidance in permutations. Stack- and queue-sortable permutations. Young
 {{< tdopen >}}
 
 
-\[AC\] ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Chapter 8: A Glimpse of Young Tableaux" (PDF - 1.2MB)](http://math.mit.edu/~rstan/algcomb/algcomb.pdf#page=107).
+\[AC\] ["Chapter 8: A Glimpse of Young Tableaux" (PDF - 1.2MB)](http://math.mit.edu/~rstan/algcomb/algcomb.pdf#page=107).
 
 If you want to learn more details about the links between combinatorics of Young tableaux and representation theory, see Sagan, Bruce E. _The Symmetric Group: Representations, Combinatorial Algorithms, and Symmetric Functions_. Springer, 2001. ISBN: 9780387950679.
 
@@ -103,13 +104,13 @@ Frobenius-Young identity. Schensted correspondence. Longest increasing and decre
 {{< tdopen >}}
 
 
-\[AC\] ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Appendix 1 to Chapter 8: The RSK Algorithm" (PDF - 1.2MB)](http://math.mit.edu/~rstan/algcomb/algcomb.pdf#page=120).
+\[AC\] ["Appendix 1 to Chapter 8: The RSK Algorithm" (PDF - 1.2MB)](http://math.mit.edu/~rstan/algcomb/algcomb.pdf#page=120).
 
 Schensted, C. ["Longest Increasing and Decreasing Subsequences."](https://www.cambridge.org/core/journals/canadian-journal-of-mathematics/article/longest-increasing-and-decreasing-subsequences/B5098D9BC8B226C575402B971852C05E) _Canadian Journal of Mathemetics_ 13 (1961), 179-191.
 
-Knuth, Donald E. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Permutations, Matrices, and Generalized Young Tableaux" (PDF)](https://msp.org/pjm/1970/34-3/pjm-v34-n3-p09-s.pdf). _Pacific Journal of Mathematics_ 34 (1970), 709-727.
+Knuth, Donald E. ["Permutations, Matrices, and Generalized Young Tableaux" (PDF)](https://msp.org/pjm/1970/34-3/pjm-v34-n3-p09-s.pdf). _Pacific Journal of Mathematics_ 34 (1970), 709-727.
 
-Greene, Curtis. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["An Extension of Schensted's Theorem" (PDF)](https://www.sciencedirect.com/science/article/pii/0001870874900310). _Advances in Mathematics_ 14 (1974), 254-265.
+Greene, Curtis. ["An Extension of Schensted's Theorem" (PDF)](https://www.sciencedirect.com/science/article/pii/0001870874900310). _Advances in Mathematics_ 14 (1974), 254-265.
 
 
 {{< tdclose >}}
@@ -133,7 +134,7 @@ Proof of the hook-length formula based on a random hook walk.
 {{< tdopen >}}
 
 
-Greene, Curtis, Albert Nijenhuis, and Herbert Wilf. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Probabilistic Proof of a Formula for the Number of Young Tableaux of a Given Shape" (PDF)](http://www.math.upenn.edu/~wilf/website/Probabilistic%20proof.pdf). _Advances in Mathematics_ 31 (1979), no. 1.
+Greene, Curtis, Albert Nijenhuis, and Herbert Wilf. ["A Probabilistic Proof of a Formula for the Number of Young Tableaux of a Given Shape" (PDF)](http://www.math.upenn.edu/~wilf/website/Probabilistic%20proof.pdf). _Advances in Mathematics_ 31 (1979), no. 1.
 
 
 {{< tdclose >}}
@@ -181,7 +182,7 @@ _q_\-factorials and _q_\-binomial coefficients.
 {{< tdopen >}}
 
 
-\[AC\] ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Chapter 6: Young Diagrams and _q_\-binomial Coefficients" (PDF - 1.2MB)](http://math.mit.edu/~rstan/algcomb/algcomb.pdf#page=60).
+\[AC\] ["Chapter 6: Young Diagrams and _q_\-binomial Coefficients" (PDF - 1.2MB)](http://math.mit.edu/~rstan/algcomb/algcomb.pdf#page=60).
 
 
 {{< tdclose >}}
@@ -205,7 +206,7 @@ Grassmannians over finite fields: Gaussian elimination and row-reduced echelon f
 {{< tdopen >}}
 
 
-\[EC1\] ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Section 1.7: Permutations of Multisets" (PDF - 4.4MB)](http://www-math.mit.edu/~rstan/ec/ec1.pdf#page=62). (see Propositions 1.7.2 and 1.7.3)
+\[EC1\] ["Section 1.7: Permutations of Multisets" (PDF - 4.4MB)](http://www-math.mit.edu/~rstan/ec/ec1.pdf#page=62). (see Propositions 1.7.2 and 1.7.3)
 
 
 {{< tdclose >}}
@@ -229,7 +230,7 @@ Sets and multisets. Statistics on permutations: inversions, cycles, descents.
 {{< tdopen >}}
 
 
-\[EC1\] ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["1.2 Sets and Multisets" (PDF - 4.4MB)](http://www-math.mit.edu/~rstan/ec/ec1.pdf#page=23), ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["1.3 Cycles and Inversions" (PDF - 4.4MB)](http://www-math.mit.edu/~rstan/ec/ec1.pdf#page=29), and ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["1.4 Descents" (PDF - 4.4MB)](http://www-math.mit.edu/~rstan/ec/ec1.pdf#page=38).
+\[EC1\] ["1.2 Sets and Multisets" (PDF - 4.4MB)](http://www-math.mit.edu/~rstan/ec/ec1.pdf#page=23), ["1.3 Cycles and Inversions" (PDF - 4.4MB)](http://www-math.mit.edu/~rstan/ec/ec1.pdf#page=29), and ["1.4 Descents" (PDF - 4.4MB)](http://www-math.mit.edu/~rstan/ec/ec1.pdf#page=38).
 
 
 {{< tdclose >}}
@@ -253,7 +254,7 @@ Posets and lattices. Boolean lattice. Partition lattice. Young's lattice.
 {{< tdopen >}}
 
 
-\[EC1\] Chapter 3: Partially Ordered Sets: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["3.1 Basic Concepts" (PDF - 4.4MB)](http://www-math.mit.edu/~rstan/ec/ec1.pdf#page=277), ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["3.2 New Posets from Old" (PDF - 4.4MB)](http://www-math.mit.edu/~rstan/ec/ec1.pdf#page=283), and ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["3.3 Lattices" (PDF - 4.4MB)](http://www-math.mit.edu/~rstan/ec/ec1.pdf#page=285).
+\[EC1\] Chapter 3: Partially Ordered Sets: ["3.1 Basic Concepts" (PDF - 4.4MB)](http://www-math.mit.edu/~rstan/ec/ec1.pdf#page=277), ["3.2 New Posets from Old" (PDF - 4.4MB)](http://www-math.mit.edu/~rstan/ec/ec1.pdf#page=283), and ["3.3 Lattices" (PDF - 4.4MB)](http://www-math.mit.edu/~rstan/ec/ec1.pdf#page=285).
 
 
 {{< tdclose >}}
@@ -277,7 +278,7 @@ Distributive lattices. Birkhoff's fundamental theorem for finite distributive la
 {{< tdopen >}}
 
 
-\[EC1\] ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["3.4 Distributive Lattices" (PDF - 4.4MB)](http://www-math.mit.edu/~rstan/ec/ec1.pdf#page=290).
+\[EC1\] ["3.4 Distributive Lattices" (PDF - 4.4MB)](http://www-math.mit.edu/~rstan/ec/ec1.pdf#page=290).
 
 
 {{< tdclose >}}
@@ -301,7 +302,7 @@ Sperner's property. Symmetric chain decompositions. Sperner's and Dilworth's the
 {{< tdopen >}}
 
 
-\[AC\] ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Chapter 4: The Sperner Property" (PDF - 1.2MB)](http://math.mit.edu/~rstan/algcomb/algcomb.pdf#page=34).
+\[AC\] ["Chapter 4: The Sperner Property" (PDF - 1.2MB)](http://math.mit.edu/~rstan/algcomb/algcomb.pdf#page=34).
 
 
 {{< tdclose >}}
@@ -325,7 +326,7 @@ Greene's theorem vs Schensted correspondence. Up and down operators. Differentia
 {{< tdopen >}}
 
 
-\[EC1\] ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["3.21 Differential Posets" (PDF - 4.4MB)](http://www-math.mit.edu/~rstan/ec/ec1.pdf#page=379).
+\[EC1\] ["3.21 Differential Posets" (PDF - 4.4MB)](http://www-math.mit.edu/~rstan/ec/ec1.pdf#page=379).
 
 
 {{< tdclose >}}
@@ -349,7 +350,7 @@ Differential posets (cont.). Fibonacci lattice. Unimodality of Gaussian coeffici
 {{< tdopen >}}
 
 
-\[AC\] ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Chapter 6: Young Diagrams and _q_\-binomial Coefficients" (PDF - 1.2MB)](http://math.mit.edu/~rstan/algcomb/algcomb.pdf#page=60). (see Corollary 6.10)
+\[AC\] ["Chapter 6: Young Diagrams and _q_\-binomial Coefficients" (PDF - 1.2MB)](http://math.mit.edu/~rstan/algcomb/algcomb.pdf#page=60). (see Corollary 6.10)
 
 
 {{< tdclose >}}
@@ -373,7 +374,7 @@ Proof of unimodality of Gaussian coefficients (cont.). Theory of partitions. Eul
 {{< tdopen >}}
 
 
-\[EC1\] ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["1.8 Partition Identities" (PDF - 4.4MB)](http://www-math.mit.edu/~rstan/ec/ec1.pdf#page=68).
+\[EC1\] ["1.8 Partition Identities" (PDF - 4.4MB)](http://www-math.mit.edu/~rstan/ec/ec1.pdf#page=68).
 
 
 {{< tdclose >}}
@@ -397,7 +398,7 @@ Two combinatorial proofs of Cayley's formula.
 {{< tdopen >}}
 
 
-\[AC\] Chapter 9. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Appendix: Three Elegant Combinatorial Proofs" (PDF - 1.2MB)](http://math.mit.edu/~rstan/algcomb/algcomb.pdf#page=146).
+\[AC\] Chapter 9. ["Appendix: Three Elegant Combinatorial Proofs" (PDF - 1.2MB)](http://math.mit.edu/~rstan/algcomb/algcomb.pdf#page=146).
 
 Egecioglu, Ömer and Jeffrey B. Remmel. ["Bijections for Cayley Trees, Spanning Trees, and Their _q_\-analogues."](https://www.sciencedirect.com/science/article/pii/009731658690004X) _J. Combinatorial Theory_, Ser. A, 42 (1986), 15-30.
 
