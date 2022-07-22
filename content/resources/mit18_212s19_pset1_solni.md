@@ -5,6 +5,7 @@ file: /courses/18-212-algebraic-combinatorics-spring-2019/09643ced10ca77da14c1bb
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
