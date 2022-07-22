@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of lecture topics and homework
+  due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 34c9e91d-47a2-9b9b-1dc5-06c9b20ad8ba
 ---
@@ -37,7 +41,7 @@ Catalan numbers: drunkard's walk problem, generating function, recurrence relati
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Catalan numbers (cont.): formula for _Cn_, reflection principle, necklaces, triangulations of polygons, plane binary trees, parenthesizations.
+Catalan numbers (cont.): formula for _C{{< sub "n" >}}_, reflection principle, necklaces, triangulations of polygons, plane binary trees, parenthesizations.
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -157,7 +161,7 @@ Stirling numbers (cont.). Set-partitions. Rook placements on triangular boards. 
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Eulerian numbers. Increasing binary trees. 3 Pascal-like triangles: Eulerian triangles, Stirling triangles of 1st and 2nd kind.
+Eulerian numbers. Increasing binary trees. 3 Pascal-like triangles: Eulerian triangles, Stirling triangles of 1{{< sup "st" >}} and 2{{< sup "nd" >}} kind.
 {{< tdclose >}}
 {{< tdopen >}}
 Problem set 1 due
