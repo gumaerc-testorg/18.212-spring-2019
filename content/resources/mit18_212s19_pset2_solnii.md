@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-212-algebraic-combinatorics-spring-2019/5f3e83d186d3e2f4841e751be1c84454_MIT18_212S19_pset2_solnII.pdf
+file_size: 198968
 file_type: application/pdf
 learning_resource_types:
 - Assignments
