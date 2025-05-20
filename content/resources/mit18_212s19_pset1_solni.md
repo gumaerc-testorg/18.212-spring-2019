@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/18-212-algebraic-combinatorics-spring-2019/09643ced10ca77da14c1bb2212e0bbc0_MIT18_212S19_pset1_solnI.pdf
+file: /courses/18-212-algebraic-combinatorics-spring-2019/09643ced10ca77da14c1bb2212e0bbc0_MIT18_212S19_pset1_solnI.pdf
 file_size: 173207
 file_type: application/pdf
 learning_resource_types:
