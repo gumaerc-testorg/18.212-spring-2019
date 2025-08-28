@@ -38,10 +38,11 @@
   },
   "learning_resource_types": [
     "Lecture Notes",
-    "Online Textbook",
+    "Open Textbooks",
     "Problem Sets"
   ],
   "site_uid": "296d2536-a4c6-40ee-a429-edbfbf530639",
   "site_short_id": "18.212-spring-2019",
+  "site_url_path": "courses/18-212-algebraic-combinatorics-spring-2019",
   "title": "Course Metadata"
 }
