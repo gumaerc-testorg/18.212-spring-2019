@@ -43,7 +43,7 @@ Recommended Text
 
 The course more or less covers the textbook:
 
-Stanley, Richard P. _Algebraic Combinatorics: Walks, Trees, Tableaux, and More_. Springer, 2018. ISBN: 9783319771724. [Online 2013 version](http://math.mit.edu/~rstan/algcomb/index.html).
+Stanley, Richard P. _Algebraic Combinatorics: Walks, Trees, Tableaux, and More_. Springer, 2018. ISBN: 9783319771724. {{% resource_link "0862b3fe-6e63-455b-b41f-c60b10b80a03" "Online 2013 version" %}}.
 
 Grading
 -------
